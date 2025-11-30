@@ -26,7 +26,7 @@ I work with **C**, **C++**, **Java (OOPS)**, **JavaScript**, **HTML**, **CSS**, 
 
 ### 📫 How to reach me
 - **LinkedIn:** *www.linkedin.com/in/piyushorke*  
-- **Instagram:** *https://www.instagram.com/airhead_orke?igsh=MXFxZ3dhbmplMzB6dw==*  
+- **Instagram:** *https://www.instagram.com/airhead_orke*  
 
 ---
 
