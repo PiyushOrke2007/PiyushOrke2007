@@ -55,11 +55,10 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
-  <a href="www.linkedin.com/in/piyushorke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/airhead_orke"><img src="https://img.shields.io/badge/Instagram-FF512F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2476" /></a>
+  <a href="https://www.linkedin.com/in/piyushorke" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/airhead_orke" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </p>
 
 ---
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
-
