@@ -1,3 +1,6 @@
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header)
+
+
 ## Hi there 👋
 
 I'm **Piyush Orke**, an aspiring **Computer Science Engineer** who loves building efficient, clean, and scalable applications.  
@@ -26,3 +29,5 @@ I work with **C**, **C++**, **Java (OOPS)**, **JavaScript**, **HTML**, **CSS**, 
 - **Instagram:** *https://www.instagram.com/airhead_orke?igsh=MXFxZ3dhbmplMzB6dw==*  
 
 ---
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
