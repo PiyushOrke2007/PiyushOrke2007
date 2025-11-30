@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**PiyushOrke2007/PiyushOrke2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Piyush Orke**, an aspiring **Computer Science Engineer** who loves building efficient, clean, and scalable applications.  
+I work with **C**, **C++**, **Java (OOPS)**, **JavaScript**, **HTML**, **CSS**, **React**, **Node.js**, **Express**, **EJS**, and **DOM**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 I’m currently working on
+- Full-stack MERN projects  
+- Strengthening DSA in C  
+- Java & C++ OOPS-based applications  
+
+### 🌱 I’m currently learning
+- Backend architecture  
+- Advanced React patterns  
+- Database design  
+
+### 🛠️ My Skill Set
+- Web development  
+- DSA concepts  
+- Java OOPS  
+- React & Node.js  
+
+### 📫 How to reach me
+- **LinkedIn:** *www.linkedin.com/in/piyushorke*  
+- **Instagram:** *https://www.instagram.com/airhead_orke?igsh=MXFxZ3dhbmplMzB6dw==*  
+
+---
