@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 I'm **Piyush Orke**, an aspiring **Computer Science Engineer** who loves building efficient, clean, and scalable applications.  
-I work with **C**, **C++**, **Java (OOPS)**, **JavaScript**, **HTML**, **CSS**, **React**, **Node.js**, **Express**, **EJS**, and **DOM**.
+I work with **C**, **C++**, **Java (OOPS)**, **JavaScript**, **HTML**, **CSS**, **React**, **Node.js**, **Express**, **EJS**,**DOM** and **MySQL**.
 
 ---
 
@@ -14,15 +14,16 @@ I work with **C**, **C++**, **Java (OOPS)**, **JavaScript**, **HTML**, **CSS**, 
 - Java & C++ OOPS-based applications  
 
 ### 🌱 I’m currently learning
-- Backend architecture  
-- Advanced React patterns  
-- Database design  
+- Advanced Backend (Node + Express)  
+- Database Design & Optimization (MySQL)  
+- Advanced React patterns
 
 ### 🛠️ My Skill Set
-- Web development  
+- Web development  (Frontend + Backend)  
 - DSA concepts  
 - Java OOPS  
 - React & Node.js  
+- SQL & MySQL Queries  
 
 ### 📫 How to reach me
 - **LinkedIn:** *www.linkedin.com/in/piyushorke*  
