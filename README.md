@@ -56,7 +56,7 @@
 ## 🌐 Connect With Me  
 <p align="left">
   <a href="www.linkedin.com/in/piyushorke"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/airhead_orke"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/airhead_orke"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
